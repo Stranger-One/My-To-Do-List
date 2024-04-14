@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.border{
+  border: 1px solid black;
+}
+
+.oswald{
+  font-family: "Oswald", sans-serif;
+}
+.work-sans{
+  font-family: "Work Sans", sans-serif;
+}
